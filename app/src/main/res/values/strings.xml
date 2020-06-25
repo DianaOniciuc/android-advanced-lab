@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="input_hint">Insert some text here</string>
+    <string name="button">Refresh!</string>
+    <string name="search">Search</string>
+    <string name="search_for_articles">Search for articles</string>
+</resources>
